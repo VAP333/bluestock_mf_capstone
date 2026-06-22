@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.db
+*.sqlite
+.env
+venv/
+.venv/
+data/processed/
+data/db/
+dashboard/
+reports/
